@@ -1,5 +1,3 @@
-# portfolio-project3
-
 DEMO
 
 https://recipes-api-app.netlify.app/
@@ -14,9 +12,9 @@ Proof-of-concept React app that uses a recipes API to quickly recommend recipes 
 
 RUN LOCALLY
 
-1. git clone https://github.com/Andrav90/portfolio-project3.git
+1. git clone https://github.com/Andrav90/recipes-finder.git
 
-2. cd portfolio-project2
+2. cd recipes-finder
 
 3. npm install
 
